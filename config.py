@@ -11,7 +11,7 @@ class Config(object):
     
     DB_URL = "mongodb+srv://tmglcd:kI1UijMr2jJXyOXY@cluster0.unjzi.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
     
-    DB_NAME = "MY_XOROBOT_DB"
+    DB_NAME = "MY_BOT_DB"
     
     TXT_LOG = -1002684037729
     
